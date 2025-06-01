@@ -2,7 +2,7 @@
 
 ## About Me
 
-Mostly self-taught tech and engineering explorer from Costa Rica — a *Tico de corazón* 🇨🇷  
+Mostly self-taught amateur tech and engineering explorer from Costa Rica — *Tico de corazón* 🇨🇷  
 Always curious, always tinkering, always learning.
 
 > *'Pelea por lo justo'*
@@ -15,8 +15,8 @@ Always curious, always tinkering, always learning.
 - 🧪 Write Python tools  
 - 🖧 Explore reverse engineering and system internals  
 - ⚙️ Tinker with electronics, microcontrollers, and anything with a circuit  
-- 🧱 Break stuff just to fix it better  
-- 🎮 Create random things from mods to utility scripts  
+- 🧱 Break stuff just to fix it better (or let it die)  
+- 🎮 Create random things 
 - 🎮 Play indie games
 
 ---
