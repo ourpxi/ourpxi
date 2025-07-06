@@ -2,25 +2,20 @@
 
 ## About Me
 
-Mostly self-taught amateur tech and engineering explorer from Costa Rica — *Tico de corazón* 🇨🇷  
-Always curious, always tinkering, always learning.
-
-> *'Pelea por lo justo'*
-> -Dad | Sometime in my life
+Mostly self-taught amateur dev from Costa Rica
 
 ---
 
 ## 🛠️ What I Do
 
-- 🧪 Write Python tools  
-- 🖧 Explore reverse engineering and system internals  
-- ⚙️ Tinker with electronics, microcontrollers, and anything with a circuit  
-- 🧱 Break stuff just to fix it better (or let it die)  
-- 🎮 Play indie games
+- 🧪 Write Small Python Scripts  
+- ⚙️ Play with electronics, microcontrollers, and anything with a circuit and wires  
+- 🧱 Break stuff  
+- 🎮 Play games
 
 ---
 
-Feel free to reach out or connect! I’m always up for a chat or to collaborate on some crazy project.
+Feel free to reach out
 
 ## 📬 Find me on Discord: **ourpxi_**
 
