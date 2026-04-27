@@ -1,26 +1,29 @@
-# Hey there, I'm ourpxi_ 👋
+# Hi, I'm ourpxi_
 
-## About Me
+Mostly self-taught developer from Costa Rica.
 
-Mostly self-taught amateur dev from Costa Rica
+## What I work on
 
----
+- Small Python scripts
+- Electronics and microcontroller projects
+- Practical experiments to understand how things work
 
-## 🛠️ What I Do
+## Areas of interest
 
-- 🧪 Write Small Python Scripts  
-- ⚙️ Play with electronics, microcontrollers, and anything with a circuit and wires  
-- 🧱 Break stuff  
-- 🎮 Play games
+I am mostly focused on:
 
----
+- Backend development
+- Networking
+- Infrastructure
+- Hardware-related projects
+- Security
+- System administration
 
-Feel free to reach out
+## Current mindset
 
-## 📬 Find me on Discord: **ourpxi_**
+I am focused on learning consistently, improving step by step, and building useful things along the way.
 
----
+## Contact
 
-*Made with passion and a little bit of caffeine ☕*  
-
-> Always building, always learning.
+Discord: **ourpxi_**
+Email: [jean@ourpxi.dev](mailto:jean@ourpxi.dev)
