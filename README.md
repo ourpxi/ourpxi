@@ -10,8 +10,6 @@ Mostly self-taught developer from Costa Rica.
 
 ## Areas of interest
 
-I am mostly focused on:
-
 - Backend development
 - Networking
 - Infrastructure
@@ -19,11 +17,8 @@ I am mostly focused on:
 - Security
 - System administration
 
-## Current mindset
-
-I am focused on learning consistently, improving step by step, and building useful things along the way.
-
 ## Contact
 
 Discord: **ourpxi_**
 Email: [jean@ourpxi.dev](mailto:jean@ourpxi.dev)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X3R722VUK0)
