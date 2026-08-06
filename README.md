@@ -21,4 +21,5 @@ Mostly self-taught developer from Costa Rica.
 
 Discord: **ourpxi_**
 Email: [jean@ourpxi.dev](mailto:jean@ourpxi.dev)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X3R722VUK0)
